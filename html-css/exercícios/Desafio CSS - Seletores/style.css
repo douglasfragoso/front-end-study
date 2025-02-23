@@ -1,0 +1,20 @@
+p { /* Seletor de elemento */
+    color: black;
+    text-align: center; 
+}
+
+#param1 { /* Seletor de ID */
+    color: red;
+}
+
+.blue { /* Seletor de classe */
+    color: blue;
+}
+
+* { /* Seletor universal */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 { /* Agrupamento de seletores */
+    text-align: center;
+}
